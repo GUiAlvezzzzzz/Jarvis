@@ -1,0 +1,58 @@
+{
+    "nome": "Guilherme",
+    "modo": "jarvis",
+    "ultimas_perguntas": [
+        "fechar spotify",
+        "diagnostico",
+        "pesquisar uninove",
+        "abrir steam",
+        "abrir spotify",
+        "tocar burning love",
+        "fechar steam",
+        "pesquisar previsão do tempo",
+        "diagnostico",
+        "fechar spotify"
+    ],
+    "preferencias": {
+        "voz": "Jarvis",
+        "apps_favoritos": [
+            "Spotify",
+            "Godot",
+            "ChatGPT",
+            "Steam"
+        ]
+    },
+    "feedback": [
+        {
+            "pergunta": "jarvis, quando eu disser \"modo jogo\" quero que vocÊ abra a steam e o spotify",
+            "feedback": "quando eu disser \"modo jogo\" quero que você abra a steam e o spotify",
+            "hora": "Sun Jul 13 10:36:28 2025"
+        },
+        {
+            "pergunta": "quando eu disser \"modo jogo\" quero que vocÊ abra a steam e o spotify",
+            "feedback": "não",
+            "hora": "Sun Jul 13 10:51:51 2025"
+        },
+        {
+            "pergunta": "vocÊ tem na suas linhas de codigo a função salvar_pergunta(pergunta),e  quando eu disser \"modo jogo\" quero que você abra o app steam e spotify, estou te ensinando, você já sabe fazer isso",
+            "feedback": "abrir spotify",
+            "hora": "Sun Jul 13 10:59:29 2025"
+        },
+        {
+            "pergunta": "abrir spotify",
+            "feedback": "sim",
+            "hora": "Sun Jul 13 11:00:57 2025"
+        },
+        {
+            "pergunta": "tocar thunderstruck",
+            "feedback": "sim",
+            "hora": "Sun Jul 13 11:01:52 2025"
+        }
+    ],
+    "comandos_personalizados": {
+        "modo jogo": [
+            "abrir steam.exe",
+            "abrir spotify"
+        ]
+    }
+}
